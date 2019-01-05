@@ -1,3 +1,22 @@
 {
-	"streams": []
+  "streams": [
+    {
+      "title": "WEWERWER",
+      "description": "WERWERWERWERWER",
+      "userId": "116388348175147661994",
+      "id": 1
+    },
+    {
+      "title": "STREAM TWO",
+      "description": "second stream",
+      "userId": "116388348175147661994",
+      "id": 2
+    },
+    {
+      "title": "THREE",
+      "description": "AND THREE",
+      "userId": "116388348175147661994",
+      "id": 3
+    }
+  ]
 }
